@@ -1,0 +1,21 @@
+111	已修改
+快捷键
+	自由变换操作		Ctrl + T
+	填充前景色		alt  + del
+	填充背景色		Ctrl + del
+	打开色彩饱和度选项卡	Ctrl + u
+	打开首选项		Ctrl + k
+	打开色阶		Ctrl + L
+	打开曲线调整		Ctrl + M
+	打开色彩平衡		Ctrl + B
+	路径变选区		Ctrl + Enter
+	取消选区		Ctrl + D
+	调整画布大小		Ctrl + Alt + c
+
+按住某键
+	按下 alt 鼠标变成吸管工具
+	按下 alt 点击蒙版与图层夹缝生成剪贴蒙版
+	按下 alt + shift + 鼠标右键 出现全色相的拾色器
+
+按某键鼠标变成xxx(无法返回)
+	i	鼠标变成拾色器
